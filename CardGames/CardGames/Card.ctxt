@@ -1,17 +1,15 @@
 #BlueJ class context
 comment0.target=Card
-comment1.params=rank\ suit\ image
-comment1.target=Card(Card.Rank,\ Card.Suit,\ javax.swing.ImageIcon)
+comment1.params=rank\ suit
+comment1.target=Card(Card.Rank,\ Card.Suit)
 comment2.params=
 comment2.target=Card.Rank\ getRank()
 comment3.params=
 comment3.target=Card.Suit\ getSuit()
-comment4.params=
-comment4.target=javax.swing.ImageIcon\ getImage()
-comment5.params=obj
-comment5.target=boolean\ equals(java.lang.Object)
-comment6.params=other
-comment6.target=int\ compareTo(Card)
-comment7.params=
-comment7.target=java.lang.String\ toString()
-numComments=8
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=other
+comment5.target=int\ compareTo(Card)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
