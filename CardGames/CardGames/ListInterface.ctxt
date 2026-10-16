@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ListInterface
+comment1.params=index\ element
+comment1.target=void\ add(int,\ java.lang.Object)
+comment2.params=index\ newElement
+comment2.target=java.lang.Object\ set(int,\ java.lang.Object)
+comment3.params=index
+comment3.target=java.lang.Object\ get(int)
+comment4.params=target
+comment4.target=int\ indexOf(java.lang.Object)
+comment5.params=index
+comment5.target=java.lang.Object\ remove(int)
+numComments=6

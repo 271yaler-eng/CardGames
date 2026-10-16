@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CardDeck
+comment1.params=
+comment1.target=CardDeck()
+comment2.params=
+comment2.target=void\ shuffle()
+comment3.params=
+comment3.target=boolean\ hasNextCard()
+comment4.params=
+comment4.target=Card\ nextCard()
+numComments=5

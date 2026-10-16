@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pair
+comment1.params=f\ s
+comment1.target=Pair(java.lang.Comparable,\ java.lang.Comparable)
+comment2.params=
+comment2.target=java.lang.Comparable\ larger()
+numComments=3
