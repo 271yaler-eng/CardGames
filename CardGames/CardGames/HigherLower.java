@@ -117,7 +117,7 @@ public class HigherLower
             discardPile.add(C1);
             discardPile.add(C2);
         }
-
+        System.out.println("Game over...");
     }
 
     public static void createDeck()
