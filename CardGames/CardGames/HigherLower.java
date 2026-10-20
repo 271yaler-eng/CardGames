@@ -61,7 +61,7 @@ public class HigherLower
 
             int compareCards = C1.compareTo(C2);
 
-            if(compareCards != 0 && m >= bet * 2)
+            if(Math.abs(C1.getRank().ordinal() - C2.getRank().ordinal()) != 1 && compareCards != 0 && m >= bet * 2)
             {
                 System.out.println("Would you like to double your bet?(y/n): ");
                 String response = input.nextLine().trim();
@@ -89,7 +89,7 @@ public class HigherLower
                 m -= risk;
 
                 System.out.println("The cards are one rank apart.");
-                System.out.println("You lost: " + risk + "chips");
+                System.out.println("You lost: " + risk + " chips");
             }
             else
             {
